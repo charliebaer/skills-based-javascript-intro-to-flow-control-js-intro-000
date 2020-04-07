@@ -30,5 +30,6 @@ function switchAge(age) {
                   break;
     case(age):
       return('You have an age');
+      break;
 }
 }
